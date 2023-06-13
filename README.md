@@ -5,6 +5,8 @@ I hope finally see what you are looking for
 Welcome to my space. 🏡
 This is a trove 🧰🗝️ of my discoveries and the things that I need to remember. 
 
+<hr />
+<br />
 Throughout my career, I've been learning a lot and trying new stuff and challenges. Here are some of my accumulated knowledge and experiences so far. 
 
 ### Technologies/Tools still being actively used
@@ -73,7 +75,18 @@ Throughout my career, I've been learning a lot and trying new stuff and challeng
 <code><a href="https://www.kali.org/" rel="noopener noreferrer" target="_blank" title="Kali Linux"><img height="30" src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali"/></a></code>
 <br/>Some of these cool Icons are from [marwin1991](https://github.com/marwin1991/profile-technology-icons)
 
-Currently I am working on my  <a href="https://narnia1991.github.io/tech-blog" target="_blank" rel="noreferrer noopener">Tech Blog</a> 🤓
+### Creatives
+<code><a href="https://www.gimp.org/" rel="noopener noreferrer" target="_blank" title="GIMP"><img height="30" src="https://www.gimp.org/images/wilbericon.svg" alt="gimp"/></a></code>
+<code><a href="https://www.canva.com/" rel="noopener noreferrer" target="_blank" title="Canva"><img height="30" src="https://static.canva.com/static/images/apple-touch-120x120-1.png" alt="canva"/></a></code>
+<code><a href="https://www.adobe.com/products/photoshop.html" rel="noopener noreferrer" target="_blank" title="Photoshop"><img height="30" src="https://1000logos.net/wp-content/uploads/2023/04/Photoshop-logo.png" alt="Photoshop"/></a></code>
+<code><a href="https://www.adobe.com/products/illustrator.html/" rel="noopener noreferrer" target="_blank" title="Illustrator"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator"/></a></code>
+<code><a href="https://www.audacityteam.org/" rel="noopener noreferrer" target="_blank" title="Audacity"><img height="30" src="https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png" alt="Audacity"/></a></code>
+<code><a href="https://www.adobe.com/products/audition.html" rel="noopener noreferrer" target="_blank" title="Audition"><img height="30" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg" alt="Audition"/></a></code>
+<code><a href="https://www.adobe.com/products/aftereffects.html" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="After Effects"/></a></code>
+
+<hr />
+<br />
+I am currently working on my  <a href="https://narnia1991.github.io/tech-blog" target="_blank" rel="noreferrer noopener">Tech Blog</a> 🤓
 
 I still have a lot of backlog ideas that i need to materialize 🤣
 
@@ -81,12 +94,16 @@ For now, I want to improve these stats. This cool widget is made by [Anurag](htt
 <br />
 [![Check out this cool stats by Anurag](https://github-readme-stats.vercel.app/api?username=narnia1991)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr />
+<br />
 You can <a href="https://narnia1991.github.io" target="_blank" rel="noreferrer noopener">Visit my site</a>
 <br />
 Send me an email narnia1991@proton.me ✉️
 <br />
 Or if I ever helped you or you just want to fuel up my day, ☕
 <br />
+<br />
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V4M1YMF)
 
 
