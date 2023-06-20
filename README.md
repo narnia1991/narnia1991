@@ -90,10 +90,6 @@ I am currently working on my  <a href="https://narnia1991.github.io/tech-blog" t
 
 I still have a lot of backlog ideas that i need to materialize 🤣
 
-For now, I want to improve these stats. This cool widget is made by [Anurag](https://github.com/anuraghazra).📈
-<br />
-[![Check out this cool stats by Anurag](https://github-readme-stats.vercel.app/api?username=narnia1991)](https://github.com/anuraghazra/github-readme-stats)
-
 <hr />
 <br />
 You can <a href="https://narnia1991.github.io" target="_blank" rel="noreferrer noopener">Visit my site</a>
