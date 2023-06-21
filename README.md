@@ -90,6 +90,8 @@ I am currently working on my  <a href="https://narnia1991.github.io/tech-blog" t
 
 I still have a lot of backlog ideas that i need to materialize 🤣
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/4CwETznFt02P6wF8ez" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/theblock-channel-9-block-the-2022-4CwETznFt02P6wF8ez">via GIPHY</a></p>
+
 <hr />
 <br />
 You can <a href="https://narnia1991.github.io" target="_blank" rel="noreferrer noopener">Visit my site</a>
