@@ -92,7 +92,7 @@ I still have a lot of backlog ideas that i need to materialize 🤣
 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/4CwETznFt02P6wF8ez" width="100"/>
+  <img src="[https://giphy.com/embed/4CwETznFt02P6wF8ez](https://media.giphy.com/media/4Jxt2yVZGJuLYjfuxA/giphy.gif)" width="100"/>
 </div>
 <br />
 
