@@ -86,10 +86,8 @@ Throughout my career, I've been learning a lot and trying new stuff and challeng
 
 <hr />
 <br />
-I am currently working on my  <a href="https://narnia1991.github.io/tech-blog" target="_blank" rel="noreferrer noopener">Tech Blog</a> 🤓
-
-I still have a lot of backlog ideas that i need to materialize 🤣
-
+I am currently studying python and backend development.
+Planning to deploy a simple sample APIsoon. 
 
 <div id="header" align="center">
   <img src="[https://giphy.com/embed/4CwETznFt02P6wF8ez](https://media.giphy.com/media/4Jxt2yVZGJuLYjfuxA/giphy.gif)" width="100"/>
