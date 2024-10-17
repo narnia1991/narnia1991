@@ -87,7 +87,8 @@ Throughout my career, I've been learning a lot and trying new stuff and challeng
 <hr />
 <br />
 I am currently studying python and backend development.
-Planning to deploy a simple sample APIsoon. 
+<br />
+Striving to have one commit a day if I can. 
 
 <div id="header" align="center">
   <img src="[https://giphy.com/embed/4CwETznFt02P6wF8ez](https://media.giphy.com/media/4Jxt2yVZGJuLYjfuxA/giphy.gif)" width="100"/>
