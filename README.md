@@ -87,6 +87,11 @@ Throughout my career, I've been learning a lot and trying new stuff and challeng
 <hr />
 <br />
 I am currently studying python and backend development.
+<code><a href="https://flask.palletsprojects.com/en/stable/" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Flask"/></a></code>
+
+Deployed my first EC2 Flask App <a href="http://13.211.130.152/login" rel="noopener noreferrer" target="_blank">Here</a>
+
+
 <br />
 Striving to have one commit a day if I can. 
 
