@@ -80,7 +80,7 @@ Throughout my career, I've been learning a lot and trying new stuff and challeng
 <code><a href="https://www.canva.com/" rel="noopener noreferrer" target="_blank" title="Canva"><img height="30" src="https://static.canva.com/static/images/apple-touch-120x120-1.png" alt="canva"/></a></code>
 <code><a href="https://www.adobe.com/products/photoshop.html" rel="noopener noreferrer" target="_blank" title="Photoshop"><img height="30" src="https://1000logos.net/wp-content/uploads/2023/04/Photoshop-logo.png" alt="Photoshop"/></a></code>
 <code><a href="https://www.adobe.com/products/illustrator.html/" rel="noopener noreferrer" target="_blank" title="Illustrator"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator"/></a></code>
-<code><a href="https://www.audacityteam.org/" rel="noopener noreferrer" target="_blank" title="Audacity"><img height="30" src="https://www.audacityteam.org/_astro/Audacity_Logo.63b57726.svg" alt="Audacity"/></a></code>
+<code><a href="https://www.audacityteam.org/" rel="noopener noreferrer" target="_blank" title="Audacity"><img height="30" src="https://www.audacityteam.org/favicon.png" alt="Audacity"/></a></code>
 <code><a href="https://www.adobe.com/products/audition.html" rel="noopener noreferrer" target="_blank" title="Audition"><img height="30" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg" alt="Audition"/></a></code>
 <code><a href="https://www.adobe.com/products/aftereffects.html" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="After Effects"/></a></code>
 
