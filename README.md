@@ -74,6 +74,7 @@ Throughout my career, I've been learning a lot and trying new stuff and challeng
 <code><a href="https://portswigger.net/burp" rel="noopener noreferrer" target="_blank" title="Burpsuite"><img height="30" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KMYIE0A-u-DhaMm9N2ImlA.png" alt="burp"/></a></code>
 <code><a href="https://www.kali.org/" rel="noopener noreferrer" target="_blank" title="Kali Linux"><img height="30" src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali"/></a></code>
 <code><a href="https://www.python.org/" rel="noopener noreferrer" target="_blank" title="Python"><img height="30" src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png" alt="python"/></a></code>
+<code><a href="https://aws.amazon.com/" rel="noopener noreferrer" target="_blank" title="aws"><img height="30" src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws"/></a></code>
 <br/>Some of these cool Icons are from [marwin1991](https://github.com/marwin1991/profile-technology-icons)
 
 ### Creatives
