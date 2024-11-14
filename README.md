@@ -74,7 +74,8 @@ Throughout my career, I've been learning a lot and trying new stuff and challeng
 <code><a href="https://portswigger.net/burp" rel="noopener noreferrer" target="_blank" title="Burpsuite"><img height="30" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KMYIE0A-u-DhaMm9N2ImlA.png" alt="burp"/></a></code>
 <code><a href="https://www.kali.org/" rel="noopener noreferrer" target="_blank" title="Kali Linux"><img height="30" src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali"/></a></code>
 <code><a href="https://www.python.org/" rel="noopener noreferrer" target="_blank" title="Python"><img height="30" src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png" alt="python"/></a></code>
-<code><a href="https://aws.amazon.com/" rel="noopener noreferrer" target="_blank" title="aws"><img height="30" src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws"/></a></code>
+<code><a href="https://aws.amazon.com/" rel="noopener noreferrer" target="_blank" title="aws"><img height="30" src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws"/></a></code><code><a href="https://flask.palletsprojects.com/en/stable/" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Flask"/></a></code>
+
 <br/>Some of these cool Icons are from [marwin1991](https://github.com/marwin1991/profile-technology-icons)
 
 ### Creatives
@@ -84,8 +85,7 @@ Throughout my career, I've been learning a lot and trying new stuff and challeng
 <code><a href="https://www.adobe.com/products/illustrator.html/" rel="noopener noreferrer" target="_blank" title="Illustrator"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator"/></a></code>
 <code><a href="https://www.audacityteam.org/" rel="noopener noreferrer" target="_blank" title="Audacity"><img height="30" src="https://www.audacityteam.org/favicon.png" alt="Audacity"/></a></code>
 <code><a href="https://www.adobe.com/products/audition.html" rel="noopener noreferrer" target="_blank" title="Audition"><img height="30" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg" alt="Audition"/></a></code>
-<code><a href="https://www.adobe.com/products/aftereffects.html" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="After Effects"/></a></code><code><a href="https://flask.palletsprojects.com/en/stable/" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Flask"/></a></code>
-
+<code><a href="https://www.adobe.com/products/aftereffects.html" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="After Effects"/></a></code>
 <hr />
 <br />
 I am currently studying python and backend development.
