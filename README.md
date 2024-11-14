@@ -84,12 +84,12 @@ Throughout my career, I've been learning a lot and trying new stuff and challeng
 <code><a href="https://www.adobe.com/products/illustrator.html/" rel="noopener noreferrer" target="_blank" title="Illustrator"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator"/></a></code>
 <code><a href="https://www.audacityteam.org/" rel="noopener noreferrer" target="_blank" title="Audacity"><img height="30" src="https://www.audacityteam.org/favicon.png" alt="Audacity"/></a></code>
 <code><a href="https://www.adobe.com/products/audition.html" rel="noopener noreferrer" target="_blank" title="Audition"><img height="30" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg" alt="Audition"/></a></code>
-<code><a href="https://www.adobe.com/products/aftereffects.html" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="After Effects"/></a></code>
+<code><a href="https://www.adobe.com/products/aftereffects.html" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="After Effects"/></a></code><code><a href="https://flask.palletsprojects.com/en/stable/" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Flask"/></a></code>
 
 <hr />
 <br />
 I am currently studying python and backend development.
-<code><a href="https://flask.palletsprojects.com/en/stable/" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Flask"/></a></code>
+
 
 Deployed my first EC2 Flask App <a href="http://13.211.130.152/login" rel="noopener noreferrer" target="_blank">Here</a>
 
