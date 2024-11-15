@@ -86,6 +86,7 @@ Throughout my career, I've been learning a lot and trying new stuff and challeng
 <code><a href="https://www.audacityteam.org/" rel="noopener noreferrer" target="_blank" title="Audacity"><img height="30" src="https://www.audacityteam.org/favicon.png" alt="Audacity"/></a></code>
 <code><a href="https://www.adobe.com/products/audition.html" rel="noopener noreferrer" target="_blank" title="Audition"><img height="30" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg" alt="Audition"/></a></code>
 <code><a href="https://www.adobe.com/products/aftereffects.html" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="After Effects"/></a></code>
+<code><a href="https://www.apple.com/ph/mac/garageband/" rel="noopener noreferrer" target="_blank" title="Garage Band"><img height="30" src="https://www.apple.com/v/mac/garageband/m/images/garageband/icon_hero__dkl6opq1wnma_large.png" alt="Garage Band"/></a></code>
 <hr />
 <br />
 I am currently studying python and backend development.
