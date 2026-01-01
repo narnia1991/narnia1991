@@ -1,15 +1,11 @@
-# Hello fellow explorer
-
-I hope finally see what you are looking for
-
-Welcome to my space. 🏡
-This is a trove 🧰🗝️ of my discoveries and the things that I need to remember. 
+Collection of all my trials and some stuff that I want to look back to. Some things I used and tried. 
 
 <hr />
 <br />
-Throughout my career, I've been learning a lot and trying new stuff and challenges. Here are some of my accumulated knowledge and experiences so far. 
+I've been trying to learn new stuff and do some challenges. Here are the tech I tried so far. 
 
 ### Technologies/Tools still being actively used
+<code><a href="https://www.anthropic.com/" rel="noopener noreferrer" target="_blank" title="Claude"><img height="30" src="https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/681d52619fec35886a7f1a70_favicon.png" alt="html5"/></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="noopener noreferrer" target="_blank" title="HTML/HTML5"><img height="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5"/></a></code>
 <code><a href="https://www.w3schools.com/css/" rel="noopener noreferrer" target="_blank" title="CSS"><img height="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css"/></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" rel="noopener noreferrer" target="_blank" title="HTTP/HTTPS"><img height="30" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="http"/></a></code>
@@ -74,7 +70,7 @@ Throughout my career, I've been learning a lot and trying new stuff and challeng
 <code><a href="https://portswigger.net/burp" rel="noopener noreferrer" target="_blank" title="Burpsuite"><img height="30" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KMYIE0A-u-DhaMm9N2ImlA.png" alt="burp"/></a></code>
 <code><a href="https://www.kali.org/" rel="noopener noreferrer" target="_blank" title="Kali Linux"><img height="30" src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali"/></a></code>
 <code><a href="https://www.python.org/" rel="noopener noreferrer" target="_blank" title="Python"><img height="30" src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png" alt="python"/></a></code>
-<code><a href="https://aws.amazon.com/" rel="noopener noreferrer" target="_blank" title="aws"><img height="30" src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws"/></a></code><code><a href="https://flask.palletsprojects.com/en/stable/" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Flask"/></a></code>
+<code><a href="https://aws.amazon.com/" rel="noopener noreferrer" target="_blank" title="aws"><img height="30" src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws"/></a></code><code><a href="https://flask.palletsprojects.com/en/stable/" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="Flask"/></a></code>
 
 <br/>Some of these cool Icons are from [marwin1991](https://github.com/marwin1991/profile-technology-icons)
 
@@ -83,17 +79,14 @@ Throughout my career, I've been learning a lot and trying new stuff and challeng
 <code><a href="https://www.canva.com/" rel="noopener noreferrer" target="_blank" title="Canva"><img height="30" src="https://static.canva.com/static/images/apple-touch-120x120-1.png" alt="canva"/></a></code>
 <code><a href="https://www.adobe.com/products/photoshop.html" rel="noopener noreferrer" target="_blank" title="Photoshop"><img height="30" src="https://1000logos.net/wp-content/uploads/2023/04/Photoshop-logo.png" alt="Photoshop"/></a></code>
 <code><a href="https://www.adobe.com/products/illustrator.html/" rel="noopener noreferrer" target="_blank" title="Illustrator"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator"/></a></code>
-<code><a href="https://www.audacityteam.org/" rel="noopener noreferrer" target="_blank" title="Audacity"><img height="30" src="https://www.audacityteam.org/favicon.png" alt="Audacity"/></a></code>
+<code><a href="https://www.audacityteam.org/" rel="noopener noreferrer" target="_blank" title="Audacity"><img height="30" src="https://www.audacityteam.org/_astro/Audacity_Logo.DK8H7nvr.svg" alt="Audacity"/></a></code>
 <code><a href="https://www.adobe.com/products/audition.html" rel="noopener noreferrer" target="_blank" title="Audition"><img height="30" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg" alt="Audition"/></a></code>
 <code><a href="https://www.adobe.com/products/aftereffects.html" rel="noopener noreferrer" target="_blank" title="After Effects"><img height="30" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="After Effects"/></a></code>
 <code><a href="https://www.apple.com/ph/mac/garageband/" rel="noopener noreferrer" target="_blank" title="Garage Band"><img height="30" src="https://www.apple.com/v/mac/garageband/m/images/garageband/icon_hero__dkl6opq1wnma_large.png" alt="Garage Band"/></a></code>
 <hr />
 <br />
-I am currently studying python and backend development.
 
-
-Deployed my first EC2 Flask App <a href="http://13.211.130.152/login" rel="noopener noreferrer" target="_blank">Here</a>
-
+Aside from programming, I'm trying out a lot of stuff. I'm currently learning metal and wood fabrication. 
 
 <br />
 Striving to have one commit a day if I can. 
@@ -104,16 +97,9 @@ Striving to have one commit a day if I can.
 <br />
 
 <hr />
-<br />
+<!-- <br />
 You can <a href="https://narnia1991.github.io" target="_blank" rel="noreferrer noopener">Visit my site</a>
-<br />
-Send me an email narnia1991@proton.me ✉️
-<br />
-Or if I ever helped you or you just want to fuel up my day, ☕
-<br />
-<br />
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V4M1YMF)
+<br /> -->
 
 
 
