@@ -6,6 +6,7 @@ I've been trying to learn new stuff and do some challenges. Here are the tech I 
 
 ### Technologies/Tools still being actively used
 <code><a href="https://www.anthropic.com/" rel="noopener noreferrer" target="_blank" title="Claude"><img height="30" src="https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/681d52619fec35886a7f1a70_favicon.png" alt="html5"/></a></code>
+<code><a href="https://zustand.docs.pmnd.rs/getting-started/introduction" rel="noopener noreferrer" target="_blank" title="Zustand"><img height="30" src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" alt="html5"/></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="noopener noreferrer" target="_blank" title="HTML/HTML5"><img height="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5"/></a></code>
 <code><a href="https://www.w3schools.com/css/" rel="noopener noreferrer" target="_blank" title="CSS"><img height="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css"/></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" rel="noopener noreferrer" target="_blank" title="HTTP/HTTPS"><img height="30" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="http"/></a></code>
